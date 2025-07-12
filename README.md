@@ -32,10 +32,42 @@ Here are some ideas to get you started:
 
 ## 🛠 Tech Stack(수정하세요)
 
-- **Languages**: Python, C++
-- **Robotics**: ROS 2 Humble, tf2, MoveIt, URDF, RViz, Gazebo
-- **Vision / AI**: OpenCV, YOLOv8, Realsense SDK, Whisper, TTS/STT
-- **Other Tools**: Git, Docker, Ubuntu, tkinter, FSM design
+- 💻 **Programming Languages**  
+  - Python  
+  - C++
+
+- 🤖 **Robotics**  
+  - ROS 2 (Humble)  
+  - MoveIt 2  
+  - Gazebo  
+  - RViz
+
+- 🧠 **Machine Learning**  
+  - PyTorch  
+  - scikit-learn
+
+- 👁 **Computer Vision**  
+  - OpenCV
+
+- 📊 **Data Analysis & Visualization**  
+  - pandas  
+  - numpy  
+  - matplotlib  
+  - scipy
+
+- 💾 **Database**  
+  - MySQL
+
+- 🛠 **Development Tools**  
+  - VS Code  
+  - Git  
+  - GitHub  
+  - Google Colab
+
+- 🖥 **Platforms & Environments**  
+  - Linux (Ubuntu)  
+  - Docker  
+  - WSL
 
 ---
 
