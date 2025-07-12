@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **yeyeyeyeyeyeun/yeyeyeyeyeyeun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,22 +15,22 @@ Here are some ideas to get you started:
 
 # 👋 Hello, I'm Ji Yeyeun
 
-I’m a robotics developer with a strong interest in **ROS 2-based system integration**, **robot arm manipulation**, and **multimodal interaction** including vision and voice.  
-I focus on building real-world systems that combine **sensing, control, and user interaction** into a cohesive robotic platform.
 
 ---
 
-## 🧩 Interests
+## 🧩 Profile
 
-- Robot control using **ROS 2** (navigation, manipulation, multi-node communication)
-- Visual systems using **OpenCV**, **YOLOv8**, and **Realsense**
-- **Voice interaction** using Whisper STT, TTS, and ChatGPT API
-- GUI-based feedback and system state visualization
-- Real robot integration: Doosan M0609, OnRobot Gripper, Realsense D435
-
+- 👩‍🎓 **이름**
+  - 지예은
+- 🎓 **학력**
+  - 건국대학교 기계공학부 졸업 (2023.08)
+- 🧪 **교육 이수**  
+  - H-mobility Class 2024(상) 로보틱스 Track 수료 (기본/심화, 2024.03 ~ 2024.07)  
+  - Rokey Bootcamp 수료 (2025.01 ~ 2025.07)
+    
 ---
 
-## 🛠 Tech Stack
+## 🛠 Tech Stack(수정하세요)
 
 - **Languages**: Python, C++
 - **Robotics**: ROS 2 Humble, tf2, MoveIt, URDF, RViz, Gazebo
@@ -41,7 +39,7 @@ I focus on building real-world systems that combine **sensing, control, and user
 
 ---
 
-## 📁 Selected Projects
+## 📁 Projects(수정하세요)
 
 | Project | Description | Tech |
 |--------|-------------|------|
@@ -53,13 +51,16 @@ I focus on building real-world systems that combine **sensing, control, and user
 
 ---
 
-## 📫 Contact
+## 📄 Certifications
 
-- **Email**: your@email.com
-- **Portfolio**: [https://your-notion-link.notion.site](https://your-notion-link.notion.site)  
-- **Location**: South Korea  
-- **Languages**: Korean (native), English (intermediate)
+- 일반기계기사 (2023.06)  
+- 컴퓨터활용능력 2급 (2024.12)  
+- TOEIC Speaking IM3 (2023.11)
 
 ---
 
-Thank you for visiting my GitHub profile.
+## 📫 Contact
+
+- **Email**: jyebubu@gmail.com
+- **Portfolio**: [https://www.notion.so/22d487f5af5580daa41afd6c65a22143?source=copy_link)  
+- **Location**: South Korea  
