@@ -62,5 +62,5 @@ Here are some ideas to get you started:
 ## 📫 Contact
 
 - **Email**: jyebubu@gmail.com
-- **Portfolio**: [https://www.notion.so/22d487f5af5580daa41afd6c65a22143?source=copy_link)  
+- **Portfolio**: https://flawless-dryer-aa5.notion.site/22d487f5af5580daa41afd6c65a22143
 - **Location**: South Korea  
