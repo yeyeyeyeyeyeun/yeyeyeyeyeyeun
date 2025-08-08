@@ -62,7 +62,6 @@ Here are some ideas to get you started:
 | Project | Description | Tech |
 |--------|-------------|------|
 | **CODA(Collections of Data for Accidents)** | 로봇을 통한 교통사고 감지 및 교통 통제, 3D 촬영을 통한 사고 현장 보존 시스템 | Python, ROS2 Humble, HTML|
-| **Tray Setting Robot** | 단순 반복적인 상차림 작업을 자동화하여, 서비스 품질을 표준화하는 상차림 로봇 시스템 | Python, ROS2 Humble, Rviz, doosan-robot2 |
 | **Bloom For You** | 사용자 음성으로 씨앗을 고르고, 꽃을 키우며 감성 메시지를 기록하여, 선물로 완성하는 자동화 재배 로봇 시스템 | Python, ROS2 Humble, HTML, doosan-robot2 |
 
 🔗 [View all repositories →](https://github.com/yeyeyeyeyeyeun?tab=repositories)
