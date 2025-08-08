@@ -61,8 +61,8 @@ Here are some ideas to get you started:
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| [**CODA(Collections of Data for Accidents)**](https://github.com/Rokey-3-D-autonomous/coda) | 로봇을 통한 교통사고 감지 및 교통 통제, 3D 촬영을 통한 사고 현장 보존 시스템 | Python<br>ROS2 Humble<br>HTML|
-| [**Bloom For You**](https://github.com/d-1world/bloom_for_you) | 사용자 음성으로 씨앗을 고르고, 꽃을 키우며 감성 메시지를 기록하여, 선물로 완성하는 자동화 재배 로봇 시스템 | Python<br>ROS2 Humble<br>HTML<br>doosan-robot2 |
+| [**CODA(Collections of Data for Accidents)**](https://github.com/Rokey-3-D-autonomous/coda) | 로봇을 통한 교통사고 감지 및 교통 통제, 3D 촬영을 통한 사고 현장 보존 시스템 | Python, ROS2 Humble, HTML|
+| [**Bloom For You**](https://github.com/d-1world/bloom_for_you) | 사용자 음성으로 씨앗을 고르고, 꽃을 키우며 감성 메시지를 기록하여, 선물로 완성하는 자동화 재배 로봇 시스템 | Python, ROS2 Humble, HTML, Doosan Robot SDK |
 
 ---
 
