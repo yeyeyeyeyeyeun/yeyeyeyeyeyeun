@@ -30,7 +30,7 @@ Here are some ideas to get you started:
     
 ---
 
-## 🛠 Tech Stack(수정하세요)
+## 🛠 Tech Stack
 
 - 💻 **Programming Languages**  
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -57,13 +57,13 @@ Here are some ideas to get you started:
   ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  ![WSL](https://img.shields.io/badge/WSL-4D97FD?style=for-the-badge&logo=windows&logoColor=white)
 ---
 
-## 📁 Projects(수정하세요)
+## 📁 Projects
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| **Bloom For You** | A robot that automates flower planting, growing, and wrapping | ROS 2, Realsense, TTS, FSM, force control |
-| **Tray Setting Robot** | Robot arm that arranges dishes and cups with GUI state feedback | ROS 2, OnRobot gripper, OpenCV, tkinter |
-| **Motion Status GUI** | Visual interface showing robot action status in real time | Python, ROS 2, tkinter, FSM design |
+| **CODA(Collections of Data for Accidents)** | 로봇을 통한 교통사고 감지 및 교통 통제, 3D 촬영을 통한 사고 현장 보존 시스템 | Python, ROS2 Humble, HTML|
+| **Tray Setting Robot** | 단순 반복적인 상차림 작업을 자동화하여, 서비스 품질을 표준화하는 상차림 로봇 시스템 | Python, ROS2 Humble, Rviz, doosan-robot2 |
+| **Bloom For You** | 사용자 음성으로 씨앗을 고르고, 꽃을 키우며 감성 메시지를 기록하여, 선물로 완성하는 자동화 재배 로봇 시스템 | Python, ROS2 Humble, HTML, doosan-robot2 |
 
 🔗 [View all repositories →](https://github.com/yeyeyeyeyeyeun?tab=repositories)
 
